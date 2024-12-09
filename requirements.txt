@@ -1,2 +1,12 @@
-Flask==3.0.3
-pandas==5.2.2
+antiorm==1.2.1
+blinker==1.9.0
+click==8.1.7
+colorama==0.4.6
+db==0.1.1
+db-sqlite3==0.0.1
+Flask==3.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+python-sql==1.5.2
+Werkzeug==3.1.3
